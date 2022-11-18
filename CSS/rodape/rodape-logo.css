@@ -1,0 +1,6 @@
+.rodape__logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    padding: 3rem;
+}

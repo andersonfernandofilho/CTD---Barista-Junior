@@ -1,0 +1,8 @@
+.evento__titulo--confira {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.evento__titulo--confira:hover {
+    text-decoration: underline;
+}
