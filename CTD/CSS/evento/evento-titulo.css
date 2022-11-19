@@ -1,0 +1,8 @@
+.evento__titulo {
+    padding-left: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3.1875rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    text-align: center;
+    width: 100%;
+}

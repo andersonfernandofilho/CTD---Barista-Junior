@@ -1,0 +1,7 @@
+.professor__nome {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.75rem;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding-top: 1rem;
+}

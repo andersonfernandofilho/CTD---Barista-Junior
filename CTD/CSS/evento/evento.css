@@ -1,0 +1,6 @@
+.evento {
+    display: flex;
+    text-align: center;
+    padding: 3rem;
+    background: linear-gradient(#d4d4d4,#888888);
+}
